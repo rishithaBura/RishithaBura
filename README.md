@@ -1,16 +1,22 @@
-## Hi there 👋
+### Rishitha Bura
+> Rishitha Bura is a software development intern at 365 Retail Markets, which is headquarted in Troy.
 
-<!--
-**rishithaBura/RishithaBura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+1. I enjoy coding and making useful real-world applications.
+2. I love reading books. My favorite genres are Fantasy and Thrillers.
+3. I am passionate about learning new software.
 
-Here are some ideas to get you started:
+### Languages/Tools
+- Java
+- Javascript
+- React
+- mySQL
+- Firebase
+- HTML, CSS
+- C++
+- Python (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interesting Fact about me
+I used to play guitar and also took an Music Exam from University of West London.
+
+[Github Portfolio]() || [LinkedIn]()
